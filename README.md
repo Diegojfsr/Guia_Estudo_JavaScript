@@ -1,2 +1,2 @@
 # Guia_Estudo_JavaScript
-Projeto pessoal para estudos. logica-de-programacao estudos estudos-javascript.
+Projeto pessoal para estudos de logica-de-programacao e estudos de javascript.
